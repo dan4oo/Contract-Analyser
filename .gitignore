@@ -1,0 +1,4 @@
+node_modules/
+back-end/venv/
+.env
+.DS_Store
